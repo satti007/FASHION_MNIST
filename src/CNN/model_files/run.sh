@@ -1,0 +1,1 @@
+python train_aws.py  --lr 0.0005 --batch_size 100 --init 1 --save_dir weights/
